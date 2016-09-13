@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/820a24506696f80642adcaff8a4de4f5/s/master "wercker status")](https://app.wercker.com/project/byKey/820a24506696f80642adcaff8a4de4f5)
+
 # licenser
 
 my gathering and concatenating license file tool
