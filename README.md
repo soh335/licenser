@@ -25,7 +25,7 @@ Default config file name is `.licenser.json`. And such format.
 }
 ```
 
-It is used for section name of library. If not exist, it is directory name.
+It is used for section name of library. If not exist, directory name is used.
 
 ## TODO
 
